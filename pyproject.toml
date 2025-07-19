@@ -9,4 +9,7 @@ dependencies = [
     "langchain>=0.3.26",
     "ipykernel>=6.29.5",
     "python-dotenv>=1.1.1",
+    "opik>=1.8.6",
+    "deepeval>=3.3.0",
+    "ipywidgets>=8.1.7",
 ]
